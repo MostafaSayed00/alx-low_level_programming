@@ -1,7 +1,6 @@
 #ifndef PI_H_
 #define PI_H_
 
-#define PI  3.14159265359
+#define PI 3.14159265359
 
-#endif /* 1_PI_H_ */
-
+#endif /*header file that defines a macro named PI as an abbreviation for the token 3.14159265359*/
